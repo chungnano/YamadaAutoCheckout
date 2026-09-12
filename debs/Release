@@ -1,0 +1,7 @@
+Origin: ChungNano
+Label: YamadaAutoCheckout
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: Yamada Auto Checkout Repository

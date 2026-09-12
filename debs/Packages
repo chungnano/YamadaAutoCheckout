@@ -1,0 +1,16 @@
+Package: com.chungnano.yamadaautocheckout.tweak
+Version: 0.8.10
+Architecture: iphoneos-arm64
+Maintainer: Chung Nano
+Installed-Size: 860
+Depends: mobilesubstrate
+Filename: ./com.chungnano.yamadaautocheckout.tweak_0.8.10_iphoneos-arm64.deb
+Size: 301480
+MD5sum: 68253ec365ff1325f2079df3bd3d246c
+SHA1: 7314100a91e39773cc8d4fb310349b68795092a3
+SHA256: 92759bd70487ba24ac9799199b9a877e5643c6361acc37c4cd6032cfb49838c3
+Section: Tweaks
+Description: Yamada Auto Checkout app and Safari ElleKit tweak
+Author: Chung Nano
+Name: Yamada Auto Checkout
+
